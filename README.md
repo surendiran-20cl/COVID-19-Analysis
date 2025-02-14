@@ -20,12 +20,17 @@ The dataset contains worldwide COVID-19 records, including confirmed, deaths, an
 
 How to Run
 Install dependencies:
+
 bash
 pip install pandas numpy plotly prophet
+
 Run the Python script to generate insights and predictions.
 
 Output
+
 1)Graphs showing global trends
+
 2)Country-specific COVID-19 trends
+
 3)Predictions for future cases
 
